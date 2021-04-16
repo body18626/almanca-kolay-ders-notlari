@@ -1,4 +1,4 @@
-## Ders-1-Selamlaşma, Vedalaşma
+## Ders-1-Selamlaşma, Vedalaşma
 
 Almanca | Türkçe
 --- | ---
