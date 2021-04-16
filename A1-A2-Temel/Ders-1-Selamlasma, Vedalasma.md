@@ -1,6 +1,6 @@
 ## Ders-1-Selamlaşma, Vedalaşma
 
-Almanca | Türkçe
+Deutsch | Türkçe
 --- | ---
 **Hallo** | Merhaba
 **Guten Morgen** | İyi sabahlar / Günaydın
